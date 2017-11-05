@@ -17,6 +17,6 @@ class c{
 	private void a(){};
 	private void a(int a ){};
 	static {
-		System.out.println(111);
+		System.out.println(222);
 	}
 }
